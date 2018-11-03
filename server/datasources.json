@@ -1,0 +1,6 @@
+{
+  "db": {
+    "url": "mongodb://fmf_admin:fmf1234@ds151383.mlab.com:51383/fmf_main_staging",
+    "connector": "mongodb"
+  }
+}
